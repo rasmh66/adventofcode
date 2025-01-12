@@ -1,0 +1,12 @@
+123 -> x
+456 -> y
+h AND i -> a
+2 RSHIFT d -> g
+NOT y -> h
+d OR y -> e
+e LSHIFT 2 -> f
+x AND f -> d
+NOT g -> i
+#
+# <key>, <cmd>, params[]
+# x, ASS, 123
